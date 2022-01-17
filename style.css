@@ -1,0 +1,81 @@
+
+
+ @media (min-width: 992px) {
+    .collapse {
+        visibility: hidden;
+    }
+    }
+
+
+#nav-list{
+    margin-top: 0px;
+    border: 5px solid black;
+    border-bottom: 0px;
+}
+
+
+
+li > div {                             /* Chicken , Beef , Sushi */
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+   /* border: 3px solid black;
+    border-left: 0px;
+    border-right: 0px; */
+    
+}
+
+.sushi
+{
+    border-top: 5px solid black;
+    margin: 0px 5px 0px 5px;
+}
+.chicken
+{
+    border-bottom: 5px solid black;
+    margin: 0px 5px 0px 5px;
+    
+}
+
+
+body{
+    color:black;
+    font-size: 15px;
+}
+
+.navbar                               /* Navigation Bar */
+{
+    /* height: 100px; */
+    background-color: gray;
+    border-radius: 0;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding: 0px;
+}
+
+body > h1{                           /* Our Menu */
+    margin-top: 100px; 
+    padding: 25px 0px 30px 0px ;
+}
+
+.hnav                                /* Food,LLC */
+{
+    padding: 10px;
+    margin-left: 27px;
+
+}
+
+.box                                /* Outer Box */
+{
+
+    background-color: gray;
+    margin: 30px 20px 26px 10px;
+}
+
+.box2                               /* Text Box */
+{ 
+    padding: 0px 15px 10px 15px;
+    font-size: x-large;
+}
+
+
